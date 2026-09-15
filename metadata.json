@@ -1,0 +1,6 @@
+{
+  "name": "BGMI Battleground Royale",
+  "description": "Realistic 3D tactical battle royale experience with parachute drop, military weapons, drivable buggy, shrinking play zone, and tactical combat.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
